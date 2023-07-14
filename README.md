@@ -27,7 +27,7 @@ Hospital mortality prediction is an essential task in healthcare.
 
 To prepare the data, follow these steps:
 
-1. Download the dataset from [link-to-dataset](https://example.com/dataset).
+1. Download the dataset from [link-to-dataset]([https://example.com/dataset](https://www.kaggle.com/code/sadiaanzum/patient-survival-prediction)).
 2. Run the `data_preparation.py` script:
 
    ```bash
